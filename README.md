@@ -3,9 +3,6 @@
 EN-ZH_Notes
 
 ## 目录
-
-
-
 - [第一个月]（chapter1.md)
 - [第二个月]（chapter2.md)
 - [第三个月]（chapter3.md)
